@@ -4,8 +4,8 @@ Projects:
 - ML Inference w/ python and rust (secret project)
 - Graphics programming w/ Metal and ML optimization w/ CUDA in c++ (metal-playground, research work)
 - Database and systems programming in c++ (persistent-queue)
-- [bookmarkmanga.com](https://bookmarkmanga.com) (manga tracker w/ AI features)
-- [accelerarch.com](https://accelerarch.com) (project management software for architects)
+- [bookmarkmanga.com](https://bookmarkmanga.com) (manga tracker w/ AI features; Next.js frontend + fastify backend + Rust inference + Some python services (e.g. faiss) )
+- [accelerarch.com](https://accelerarch.com) (project management software for architects; Next.js frontend + fastify backend)
 
 <!--
 **taanishr/taanishr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
