@@ -1,8 +1,8 @@
 ## Hi there 👋
 Here's what I'm currently interested in and/or working on:
 Projects:
-- Graphics programming w/ Metal and ML optimization w/ CUDA in c++ (metal-playground, research work, in progress declarative GUI library)
-- Database and systems programming in c++ (persistent-queue)
+- Graphics programming w/ Metal and ML optimization w/ CUDA in C++ (metal-playground, research work, in progress declarative GUI library)
+- Database and systems programming in C++ (persistent-queue)
 - [bookmarkmanga.com](https://bookmarkmanga.com) (manga tracker w/ AI features; Next.js frontend + fastify backend + Rust inference + Some python services (e.g. faiss), hosted on AWS)
 - [accelerarch.com](https://accelerarch.com) (project management software for architects; Next.js frontend + fastify backend, hosted on AWS)
 
